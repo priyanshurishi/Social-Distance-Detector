@@ -5,4 +5,3 @@ Social Distancing Violation Detector marks people with red boxes who are not mai
 
 The main advantage of this software is that it is fully automatic and no manpower is needed to operate it. This feature proves to be very useful during the current situation of the pandemic.
  
- sarthak
