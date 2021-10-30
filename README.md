@@ -4,3 +4,5 @@ Social distancing also called “Physical Distancing," means keeping a safe dist
 Social Distancing Violation Detector marks people with red boxes who are not maintaining a safe distance of 6 feet and other people are bound with blue boxes. A software program has been made that can detect social distancing in a real-time surveillance video or a pre-recorded video.
 
 The main advantage of this software is that it is fully automatic and no manpower is needed to operate it. This feature proves to be very useful during the current situation of the pandemic.
+ 
+ sarthak
